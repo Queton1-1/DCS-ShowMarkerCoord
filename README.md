@@ -15,7 +15,7 @@ Nommez le **'get coord'** ou **'&co'** en majuscule ou minucule, peu importe.
 Dès que vous allez cliquer en dehors de la fenêtre du marqueur, ou la fermer, un message apparaîtra pendant 2 minutes avec les coordonnées.  
 
 Ca vous laissera le temps de saisir ces coordonnées dans l'ordinateur de bord.  
-Les coordonnées affichés sont au format deg°min"sec.decimales' et entre parenthèses les décimales de minutes (style F-16CM).  
+Les coordonnées affichés sont au format *deg°min"sec.decimales'* et entre parenthèses les *décimales* de *minutes* (style F-16CM).  
 Les coordonnées ne sont visibles que pour la coalition qui en a fait la demande.  
  
   
