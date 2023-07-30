@@ -6,7 +6,7 @@ Très utile pour ajouter des waypoints ou les coordonnées des cibles.
   
 ### Installation  
 Rdv dans [Release](https://github.com/Queton1-1/DCS-ShowMarkerCoord/releases) pour obtenir la dernière version.  
-Il suffit de créer un déclencheur avec pour condition *'temps sup. à'* (1) et charger le script *.lua* 
+Il suffit de créer un déclencheur avec pour condition *'temps sup. à'* (1) et charger le script *.lua*   
 Ne nécessite aucune dépendance (*Moose*, *Mist*, etc...) et ne gène pas leur fonctionnement.  
 
 ### Utilisation
