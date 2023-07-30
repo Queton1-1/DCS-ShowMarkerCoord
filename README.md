@@ -5,12 +5,12 @@ A partir d'un marqueur sur la carte, spécifiquement nommé, affiche un message 
 Très utile pour ajouter des waypoints ou les coordonnées des cibles.  
   
 ### Installation
-Il suffit de créer un déclencheur avec pour condition 'temps sup. à' (1) et charger le script .lua contenu dans le .zip  
-Ne nécessite aucune dépendance (Moose, Mist, etc...) et ne gène pas leur fonctionnement.  
+Il suffit de créer un déclencheur avec pour condition *'temps sup. à'* (1) et charger le script *.lua* 
+Ne nécessite aucune dépendance (*Moose*, *Mist*, etc...) et ne gène pas leur fonctionnement.  
 
 ### Utilisation
 Créez un marqueur à partir de la carte (F-10),  
-Nommez le 'get coord' ou '&co' en majuscule ou minucule, peu importe.  
+Nommez le **'get coord'** ou **'&co'** en majuscule ou minucule, peu importe.  
 Dès que vous allez cliquer en dehors de la fenêtre du marqueur, ou la fermer, un message apparaîtra pendant 2 minutes avec les coordonnées.  
 
 Ca vous laissera le temps de saisir ces coordonnées dans l'ordinateur de bord.  
