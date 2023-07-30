@@ -1,4 +1,4 @@
-# DCS-ShowMarkerCoord
+# DCS - Show Marker Coord
   
 Petit script, principalement pour les joueurs VR qui, comme moi, galèrent à reporter des coordonnées satellites dans l'ordinateur de bord.  
 A partir d'un marqueur sur la carte, spécifiquement nommé, affiche un message avec les coordonnées (latitude, longitude, altitude) pendant 2 minutes.  
