@@ -4,7 +4,8 @@ Petit script, principalement pour les joueurs VR qui, comme moi, galèrent à re
 A partir d'un marqueur sur la carte, spécifiquement nommé, affiche un message avec les coordonnées (latitude, longitude, altitude) pendant 2 minutes.  
 Très utile pour ajouter des waypoints ou les coordonnées des cibles.  
   
-### Installation
+### Installation  
+Rdv dans [Release](https://github.com/Queton1-1/DCS-ShowMarkerCoord/releases) pour obtenir la dernière version.  
 Il suffit de créer un déclencheur avec pour condition *'temps sup. à'* (1) et charger le script *.lua* 
 Ne nécessite aucune dépendance (*Moose*, *Mist*, etc...) et ne gène pas leur fonctionnement.  
 
